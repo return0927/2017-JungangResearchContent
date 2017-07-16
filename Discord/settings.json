@@ -1,0 +1,4 @@
+{
+  "LogDirectory": "./Logs/",
+  "fileExt": "*.logs"
+}
