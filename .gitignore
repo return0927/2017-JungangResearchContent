@@ -1,1 +1,4 @@
 *.logs
+*.log
+.dill
+Logs

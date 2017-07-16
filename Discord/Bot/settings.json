@@ -1,0 +1,117 @@
+{
+    "admin": [
+        "216027416957681664",
+        "250563159356604417",
+        "281729627003682818",
+        "135776501504147457",
+        "303062369322663936",
+        "277718184046624769",
+        "279107094685155329",
+        "272348345459146754",
+        "251323777298726923",
+        "301311110693519363",
+        "321214904134664192"
+    ],
+    "channel_banlist": [
+        "276351649898037249",
+        "329567044972445696"
+    ],
+    "channels": [
+        "318770189946847235",
+        "277296428697649163",
+        "295472892316221450",
+        "318406131514998794",
+        "312961290136059914",
+        "318187940410818562",
+        "321553539119972352",
+        "321553059979198465",
+        "320618557685760011",
+        "283613206428123138",
+        "330997157652070400",
+        "332722966561554433",
+        "333272569430016000",
+        "321644642259173376",
+        "321225774302756864",
+        "297967776902021122"
+    ],
+    "message_event_feedback": [
+        [
+            "282434451621806090",
+            "323328620405719050",
+            "282434451621806090"
+        ],
+        [
+            "276351649898037249",
+            "323438746215120897",
+            "276351649898037249"
+        ],
+        [
+            "318755695325609985",
+            "323847862914121768",
+            "318755695325609985"
+        ],
+        [
+            "318187940410818562",
+            "324618079420284928",
+            "318187940410818562"
+        ]
+    ],
+    "personal_commands": {
+        "$hyo": "Jin-",
+        "$uNSet": "\uc11d\uc591\uc774.... \uc9c4\ub2e4..",
+        "$\uac00\ub9ac": "\uc548\ub155\ud558\uc138\uc694. \uac00\ub9ac\uc785\ub2c8\ub2e4.\n\nhttps://images.discordapp.net/attachments/286017390305607691/329034093322829845/PicsArt_06-20-06.47.04.png",
+        "$\uad6c\uc774": "https://images.discordapp.net/attachments/307445922550382592/328923511580131329/770653c5cc6e409a.jpg",
+        "$\uae08\ud654\uc9c4": "\uc0c8\ubcbd\uc758 \uc218\ud3c9\uc120\uc5d0\uc11c \ub098\ub791 \ud3ec\ucf13\ubaac\uc2b9\ubd80\ud569\uc2dc\ub2e4!\n\nhttps://images.discordapp.net/attachments/321339450229522433/328919465339387907/f1ff52f72075a1a7.jpg",
+        "$\uae40\ub300\uc6b4": "**\uc77c\ud574\ub77c! \uc790\ub791\uc2a4\ub7ec\uc6b4 ~~\ub178\uc608~~ \uc0ac\uc7a5\uc544!**",
+        "$\ub178\ubc14\ubcf4": "\ubc14\ubcf4",
+        "$\ub8fd\ub0d0\ub8fd\ub0d0": "\ub0d0\ub8fd",
+        "$\uba4d\uccad\uc774\ub178\ubc14\ubcf4": "https://images.discordapp.net/attachments/298477465448218625/328921334296084480/2017-06-24_222035.PNG",
+        "$\ubcc0\ud0dc\ub178\ubc14\ubcf4": "https://img-hankyung-com.cdn.ampproject.org/ii/w820/img.hankyung.com/photo/201306/AA.7559412.1.jpg\nhttps://images-ext-1.discordapp.net/external/PuJtl5rRmIOzsz6O7ppfeTMeOSJHKaLbZlE7TGJbkBo/https/images.discordapp.net/attachments/321553059979198465/328908778936467467/unknown.png",
+        "$\ube14\ub7ec\uc2a4": "https://images.discordapp.net/attachments/307449926009225216/328920502146039826/cbb8b83be363abfb.png",
+        "$\ube14\ub8e8\uc5d4": "\ud604\uc7ac \uba38\ub9ac\uac00 \uacfc\ubd80\ud558\ub418\uc5b4 2\uac1c\uc11c\ubc84GM\ub97c \uad00\ub454 \ube14\ub8e8\uc5d4\uc785\ub2c8\ub2e4\n\nhttps://cdn.discordapp.com/attachments/319833576101249026/330867932177367042/2b35412737b727d1.png",
+        "$\uc774\uc740\ud559": "\uc2dc\uacf5\uc870\uc544",
+        "$\uc8a1\ub481\ud638\uc6b0!": "https://images.discordapp.net/attachments/285051081472344064/328911130434994177/8bd69492f38b2e25.png",
+        "$\ud1a0\ud2f0": "\ud1a0\ud2f0\ub2d8 \ub4f1\uc7a5!",
+        "$\ud53c\uc544\ub178\ub9ac": "\uc6b0\uc8fc\ucd5c\uac15\uadc0\uc694\ubbf8 \ud53c\uc544\ub178\ub9ac \ub4f1\uc7a5!",
+        "$\ud5e4\uc2a4\ud2f0\uc544": "\ud558\ub77c\ub294 \uc77c\uc740 \uc548\ud558\uace0 !",
+        "$\ud5e6\uc2b8\ud2f0\uc544": "\ud5e4\uc5d0\uc5d0",
+        "\ub0b4\uafc8\uafd4": "https://cdn.discordapp.com/attachments/321225774302756864/333626434306310145/unknown.png",
+        "\ub2e4\ub9ac\ubc30\uac8c": "https://cdn.discordapp.com/attachments/321225774302756864/333626600472182784/unknown.png",
+        "\ubbc0\ud763": "https://cdn.discordapp.com/attachments/321553059979198465/332168073391898626/20170705_233701.png",
+        "\uc139\ub3c4\uc2dc\ubc1c": "https://images.discordapp.net/attachments/321553059979198465/331078919887519744/1499005737857.png",
+        "\uc628\ub77c\uc778\uac9c\uc5d0\uc11c\uc695\uc740\uc880\uc4f8\uc218\uc788\ub2e4\ub294\uac74\ub2f9\uc5f0\ud55c\uac70\uace0\uadf8\ub9ac\uace0\ucd08\ubcf4\ud55c\ub370\uc695\uc880\uc37b\ub2e4\uace0\uc2e0\uace0\ub97c\uba39\ub098\uc694\u314b\u314b\u314b?": "https://images.discordapp.net/attachments/297967776902021122/332164908525420545/Cap_2017-07-05_16-43-56-598.png",
+        "\uc751\ubc34": "https://images.discordapp.net/attachments/321225774302756864/331039877871435776/Capture_2017-07-02-20-54-08.png",
+        "\uc751\uc2dc\ubc1c\ub108\ubc34": "https://images.discordapp.net/attachments/321553059979198465/331077906446942209/Capture_2017-07-02-23-25-15.png",
+        "\ud070\uc77c\ub0ac\ub2e4": "https://cdn.discordapp.com/attachments/328908721575165952/332735789840465920/ZZZZZZZZZ.PNG"
+    },
+    "pw": [
+        "KkuTuKorea0216-R3turn0927-Initialize2015!@",
+        "KKuTuKorea0216_Haneul0702!@#"
+    ],
+    "staff": [
+        "279107094685155329",
+        "220543205773541376",
+        "272348345459146754",
+        "277718184046624769",
+        "270177579288363008",
+        "303062369322663936",
+        "295186691931766784",
+        "240022113220558849"
+    ],
+    "vote": [
+        "{\"server\": \"318755695325609985\", \"channel\": \"chat\", \"title\": \"\\uc774\\ub984#1234_\\uc774\\ub984\\uc815\\ud558\\uae30\", \"author\": [\"216027416957681664\", \"\\uae40\\ub300\\uc6b4\", \"\\uae40\\ub300\\uc6b4#2395\"], \"deadline\": 0, \"content\": [\"\\ub044\\ucf54\\ud0dc\\uadf8\", \"\\ubaa8\\ub808\\ubbf8\\ud0dc\\uadf8\", \"\\uc2dd\\ubcc4\\ucf54\\ub4dc\", \"\\uc2dd\\ubcc4\\ucf54\\ub4dc\\ud0dc\\uadf8\"], \"lore\": \"\\uc774\\ub984#1234 \\uc774\\ub984\\uc744 \\uc815\\ud569\\uc2dc\\ub2e4\", \"scores\": [[\"303062369322663936\", \"\\ub044\\ucf54\\ud0dc\\uadf8\"], [\"216027416957681664\", \"\\ub044\\ucf54\\ud0dc\\uadf8\"], [\"293363758783266816\", \"\\ub044\\ucf54\\ud0dc\\uadf8\"], [\"298400660414529536\", \"\\ub044\\ucf54\\ud0dc\\uadf8\"], [\"281729627003682818\", \"\\ub044\\ucf54\\ud0dc\\uadf8\"], [\"135776501504147457\", \"\\ubaa8\\ub808\\ubbf8\\ud0dc\\uadf8\"]]}"
+    ],
+    "wordmanager": [
+        "279107094685155329",
+        "277718184046624769",
+        "272348345459146754",
+        "277158823561527318",
+        "293363758783266816",
+        "251323777298726923",
+        "282094489554780160",
+        "303062369322663936",
+        "287506621146333185",
+        "295186691931766784",
+        "280944219579744257"
+    ]
+}
