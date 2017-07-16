@@ -2,16 +2,15 @@
 
 # Global Script Inclusion
 import json, codecs, os
-import pickle
+import dill as pickle
 
 
 # Settings
-if not "settings.pickle" in os.listdir():
+if not "settings.dill" in os.listdir():
     # No setting file found, Create one
     class Setting:
         logDir = "./Logs/"
         logExt = "logs"
-
-    pickle.dump(Setting, open("settings.pickle","wb"))
+    pickle.dump(Setting, open("settings.dill","wb"), pickle.HIGHEST_PROTOCOL)
 else:
-    pickle.load(open("settings.pickle","rb"))
+    Setting = pickle.load(open("settings.dill","rb"))
