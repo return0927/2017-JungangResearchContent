@@ -1,4 +1,5 @@
 # Local Script Inclusion
+from LogStrSplit import LogSplit
 
 # Global Script Inclusion
 import json, codecs, os
@@ -17,3 +18,13 @@ else:
 
 
 
+logDir = os.listdir(Setting.logDir)
+
+os.chdir(Setting.logDir)
+for file in logDir:
+    print("="*10,file,"="*10)
+    with codecs.open(file, 'r', encoding="UTF-8") as f:
+        lines = f.readlines()
+        for line in lines:
+            #print(line[:-1])
+            print(LogSplit.split(line[:-1]))
