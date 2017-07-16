@@ -14,3 +14,6 @@ if not "settings.dill" in os.listdir():
     pickle.dump(Setting, open("settings.dill","wb"), pickle.HIGHEST_PROTOCOL)
 else:
     Setting = pickle.load(open("settings.dill","rb"))
+
+
+
