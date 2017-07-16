@@ -22,6 +22,8 @@ async def on_ready():
     print(client.user.id)
     print(" ===========")
     await client.change_presence(game=discord.Game(name="문의는 이은학#9299"))
+    a = await client.get_message(client.get_channel("321225774302756864"), "281729627003682818")
+    print(a)
 
 os.chdir("./logs")
 
