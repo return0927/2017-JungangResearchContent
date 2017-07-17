@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d158787e-70ea-46c7-a673-98c6609ca404" name="Discord Log Bot Server" url="http://kkutu.co.kr">
-        <fileTransfer host="kkutu.co.kr" port="21" rootFolder="/Discord-Bot">
+        <fileTransfer host="kkutu.co.kr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
